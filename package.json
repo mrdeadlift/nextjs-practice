@@ -12,6 +12,7 @@
   "dependencies": {
     "@vercel/postgres": "^0.10.0",
     "next": "canary",
+    "next-auth": "5.0.0-beta.25",
     "use-debounce": "^10.0.4"
   }
 }
